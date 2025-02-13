@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <array name="colors">
+        <item>#6127e9</item>
+        <item>#19d9c5</item>
+        <item>#ffdc39</item>
+        <item>#fe1967</item>
+    </array>
 </resources>
